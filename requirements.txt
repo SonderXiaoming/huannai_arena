@@ -1,0 +1,10 @@
+# HoshinoBot / NoneBot 1 请使用现有机器人环境，不在此重复安装。
+httpx>=0.24,<1
+loguru>=0.7,<1
+numpy>=1.24,<2
+opencv-python>=4.8,<4.12
+Pillow>=9.1,<11
+pydantic>=1.10,<2
+SQLAlchemy>=2.0,<2.1
+sqlmodel>=0.0.21,<0.0.22
+aiosqlite>=0.19,<1

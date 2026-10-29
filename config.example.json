@@ -1,0 +1,15 @@
+{
+  "mzq": {
+    "api": ["http://127.0.0.1:8888"],
+    "client_key": "",
+    "timeout": 10
+  },
+  "database": {
+    "use_pgsql": false,
+    "arena_pgsql_url": "",
+    "migrate_to_pgsql": false,
+    "arena_pool_size": 10,
+    "arena_max_overflow": 20,
+    "arena_pool_timeout": 60
+  }
+}
